@@ -39,7 +39,7 @@ Here I tried both CNN model built from scratch and transfer learning to study th
 ### 14-layer CNN model built from scratch
 **((ConV-ReLU)x3-MaxPool)x3 --flattening-- FC1-ReLU-FC2**
 
-![CNN_scratch](https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Image1_CNN.tif)
+![CNN_scratch](https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Image1_CNN.png)
 
 ### Transfer Learning with Inception_v3
 1. `Inception_fc1`: Freeze all the convolutional layers before the final classifer and train the classifier
