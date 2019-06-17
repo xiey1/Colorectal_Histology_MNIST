@@ -22,7 +22,7 @@ Original source: https://www.nature.com/articles/srep27988
   
   * `EMPTY` -- Background (no tissue)
   
-  The dataset contains 5000 images with 625 images for each class 
+  The dataset contains 5000 images with 625 images for each class. All the images are 150x150px in RGB mode.
   
   Here is a panel of representative images from each class:
   
