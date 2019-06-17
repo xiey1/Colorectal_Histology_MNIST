@@ -49,7 +49,7 @@ Here I tried both CNN model built from scratch and transfer learning to study th
 # Result:
 Pretrained Inception_v3 model with trained fully-connected layer and classifier achieves the best performance with on overall prediction accuracy of 89.867%. 
 
-<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Accuracy_summary.png' width=500px>
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Accuracy_summary.png' width=600px>
 
 # Model Evaluation:
 
