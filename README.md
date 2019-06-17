@@ -50,6 +50,7 @@ Pretrained Inception_v3 model with trained fully-connected layer and classifier 
 ![Accuracy_summary](https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Accuracy_summary.png)
 
 # Model Evaluation:
+
 Here I mainly focused on the evaluation performance of the optimal Inception_v3 model with trained additional fully-connected layer and classifier (Inception_v3_fc2)
 
 
@@ -66,6 +67,7 @@ In addition, t-SNE plots can give us a clear visualization of how good each clas
 ![tSNE_inception_v3_fc2](https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/t-SNE_feature_extraction.png)
 
 # Application:
+
 Here, I used the trained Inception_v3_fc2 model to predict tissue types of specific regions from a larger 5000x5000px H&E image of colorectal cancer. 
 
 ![Application_image1_raw](https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Application_1_raw.png)
