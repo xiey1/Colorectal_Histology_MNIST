@@ -53,7 +53,7 @@ Pretrained Inception_v3 model with trained fully-connected layer and classifier 
 Here I mainly focused on the evaluation performance of the optimal Inception_v3 model with trained additional fully-connected layer and classifier (Inception_v3_fc2)
 
 
-<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Accuracy_inception_fc2.png' width=600px>
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Accuracy_inception_v3_fc2.png' width=600px>
 
 <img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Confusion_matrix.png' width=500px>
 
