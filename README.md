@@ -43,7 +43,7 @@ Here I tried both CNN model built from scratch and transfer learning to study th
 ![CNN_scratch](https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Image1_CNN.png)
 
 ### Transfer Learning with Inception_v3
-1. `Inception_v3_fc1`: Freeze all the convolutional layers before the final classifer and train the classifier
+1. `Inception_v3`: Freeze all the convolutional layers before the final classifer and train the classifier
 2. `Inception_v3_fc2`: Freeze all the convolutional layers, add a fully-connected layer with 256 nodes before the final classifier and train both the fully-connected layer as well as the final classifier
 
 # Result:
