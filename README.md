@@ -67,9 +67,25 @@ In addition, t-SNE plots can give us a clear visualization of how good each clas
 <img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/tSNE_plot.png' width=900px>
 
 # Application:
+### 1. Predict tissue type in region of interest
+Here, I used the trained Inception_v3_fc2 model to predict tissue types of the specified regions of interest from a set of independent larger 5000x5000px H&E images of colorectal cancer. 
 
-Here, I used the trained Inception_v3_fc2 model to predict tissue types of specific regions from a larger 5000x5000px H&E image of colorectal cancer. 
-
-<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Application_1_raw.png' width=500px>
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Application_1_raw.png' width=300px>
 
 <img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Application_1_pred.png' width=900px>
+
+
+### 2. Tissue segmentation and multi-channel visualization
+Here, I applied the trained CNN model to segment tissue types on whole-slide pathology images and presented the classification result with multi-channel visualization.
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img1_pred.png' width=600px>
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img2_pred.png' width=600px>
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img3_pred.png' width=600px>
+
+In addition, for each tissue type, we can plot the prediction confidence or class probabilities.
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img1_prob_TUMOR.png' width=600px>
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img2_prob_TUMOR.png' width=600px>
