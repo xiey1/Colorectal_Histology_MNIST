@@ -89,3 +89,15 @@ In addition, for each tissue type, we can plot the prediction confidence or clas
 <img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img1_prob_TUMOR.png' width=600px>
 
 <img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img2_prob_TUMOR.png' width=600px>
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img3_prob_STROMA.png' width=600px>
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img4_prob_STROMA.png' width=600px>
+
+<img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/img5_prob_MUCOSA.png' width=600px>
+
+
+
+
+
+
