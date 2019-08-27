@@ -37,7 +37,7 @@ Test dataset is used to evaluate the model and compare the prediction performanc
 
 Here I tried both CNN model built from scratch and transfer learning to study this multiclass classification problem
 
-### 14-layer CNN model built from scratch
+### 11-layer CNN model built from scratch
 **((ConV-ReLU)x3-MaxPool)x3 --flattening-- FC1-ReLU-FC2**
 
 <img src='https://github.com/xiey1/Colorectal_Histology_MNIST/blob/master/images/Image1_CNN.png' width=900px>
